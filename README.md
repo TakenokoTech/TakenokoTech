@@ -1,7 +1,5 @@
-### Hi there 👋
-
 ![Takenoko's github stats](https://github-readme-stats.vercel.app/api?username=TakenokoTech)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakenokoTech&hide=php,css,html,hlsl,shaderlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakenokoTech&hide=php,css,html,hlsl,shaderlab&layout=compact)
 
 <!--
 **TakenokoTech/TakenokoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
